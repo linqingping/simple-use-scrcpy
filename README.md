@@ -1,4 +1,4 @@
-# 使用scrcpy连接手机
+# 使用scrcpy连接安卓手机
 ## 安装软件
 ```
 make install
