@@ -1,4 +1,4 @@
-# 使用scrcpy连接安卓手机
+# 使用scrcpy连接安卓手机,投屏电脑。
 ## 安装软件
 ```
 make install
